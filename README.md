@@ -1,2 +1,17 @@
-# padaria-doce-e-cia
-Doce e Cia é um site institucional desenvolvido em HTML5 e CSS3, criado para representar uma padaria artesanal. O projeto conta com páginas de apresentação, cardápio completo, navegação simples e layout responsivo, com foco em organização, semântica e boa experiência do usuário. Ideal como modelo para pequenos negócios locais,.
+# 🍞 Doce e Cia
+
+Site institucional de uma padaria artesanal, desenvolvido com HTML5 e CSS3.
+
+## 📄 Páginas
+- Página Inicial
+- Cardápio
+- Sobre
+- Contato
+
+## 🛠 Tecnologias
+- HTML5
+- CSS3
+
+## 🎯 Objetivo
+Projeto criado para estudo de front-end e como modelo de site para pequenos negócios locais.
+
