@@ -1,0 +1,45 @@
+main {
+    max-width: 800px;   
+    margin: 0 auto;     
+    padding: 20px;
+}
+main h2 {
+    text-align: center; 
+    margin-bottom: 20px;
+    color: #8b5a2b;     
+}
+main p {
+    margin-bottom: 15px; 
+    text-align: justify; 
+    color: #555555;
+}
+main strong {
+    color: #d18b47;
+}
+header {
+    background-color: #f4c2a1;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2rem;
+    color: #333;
+}
+
+nav {
+    background-color: #d18b47;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #000000;
+}
